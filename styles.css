@@ -1,0 +1,64 @@
+* {
+    background-color: gray;
+}
+
+img {
+    background-color: black;
+    align-self: center;
+    width: 240px;
+    height: auto;
+}
+
+h1 {
+    background-color: black;
+    color: crimson;
+    font-size: 60px;
+    font-weight: bold;
+}
+h2 {
+    background-color: black;
+    color: white;
+    font-size: 64px;
+    font-weight: bold;
+}
+li {
+    background-color: black;
+    font-size: 44px;
+    color: white;
+}
+ol{
+    background-color: black;
+}
+a {
+    background-color: black;
+    color: crimson;
+}
+ul {
+    background-color: black;
+}
+
+p{
+    background-color: black;
+    color: white;
+}
+strong {
+    background-color: black;
+    color: white;
+    font-size: 44px;
+
+}
+
+html {
+    background-image: url("images/valorant-mobile-artwork.jpg");
+    background-size: cover;
+}
+button {
+    background-color: black;
+    font-size: 44px;
+    text-align: center;
+
+
+}
+body{
+    background-color: black;
+}
